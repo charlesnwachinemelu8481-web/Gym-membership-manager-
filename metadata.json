@@ -1,0 +1,6 @@
+{
+  "name": "FitAdmin",
+  "description": "Bold, energetic gym membership management and front-desk admin app for tracking members, plans, check-ins, payments, and renewals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
